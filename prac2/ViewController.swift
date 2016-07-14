@@ -23,5 +23,8 @@ class ViewController: UIViewController {
     @IBOutlet weak var buttontest: UIButton!
 
     @IBOutlet weak var testText: UILabel!
+    @IBAction func testarea(sender: AnyObject) {
+    }
+    
 }
 
